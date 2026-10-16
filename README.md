@@ -3,7 +3,7 @@
 Welcome to the **Vidur External API** — the fastest way to bring Vidur's legal AI capabilities directly into your product. Ask questions against Vidur's knowledge base, stream answers in real time, surface curated news tickers and prompts, and show your users the sources behind every answer.
 
 - **Interactive Swagger UI:** [`/vidur-apis-docs`](https://api.vidur.in/vidur-apis-docs) — explore the endpoints and try them live with your API key.
-- **OpenAPI spec (JSON):** [`/vidur-apis-docs.json`](https://api.vidur.in/vidur-apis-docs.json)
+- **OpenAPI spec (JSON):** [`/vidur-apis-docs.json`](https://api.vidur.in/vidur-apis-docs.json) 
 
 ---
 
